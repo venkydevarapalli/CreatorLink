@@ -113,7 +113,6 @@ Open http://localhost:5173
 | `GET /gigs` | List gigs with filters |
 | `POST /bids` | Submit a bid |
 | `PUT /bids/{id}/accept` | Accept bid (auto-creates conversation) |
-| `POST /crew/{id}/hire/{user_id}` | Hire crew member (auto-creates group chat) |
 | `GET /conversations` | List user's conversations |
 | `WS /ws/chat/{conversation_id}` | Real-time WebSocket chat |
 | `POST /upload` | Upload file to Cloudinary |
