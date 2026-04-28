@@ -1,5 +1,8 @@
 # CreatorLink
 
+## Github Link
+https://github.com/venkydevarapalli/CreatorLink
+
 A social media collaboration platform for creative professionals built with **React + Tailwind CSS** (frontend), **FastAPI** (backend), **MongoDB + Beanie ODM** (database), **Cloudinary** (media), and **WebSockets** (real-time chat).
 
 ## Features
@@ -49,14 +52,14 @@ cd backend
 python -m app.seed
 ```
 
-Demo accounts (password: `password123`):
+Demo accounts (password: `123456`):
 | Email | Role |
 |-------|------|
-| brand@creatorlink.com | Brand |
-| influencer@creatorlink.com | Influencer |
-| editor@creatorlink.com | Editor |
-| photographer@creatorlink.com | Photographer |
-| admin@creatorlink.com | Admin |
+| mamaearth@gmail.com | Brand |
+| raclidras@gmail.com | Influencer |
+| venky@gmail.com | Editor |
+| surya@gmail.com | Photographer |
+| admin@gmail.com | Admin |
 
 ### 4. Start Backend
 
