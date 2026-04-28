@@ -11,7 +11,6 @@ https://github.com/venkydevarapalli/CreatorLink
 - **5 User Roles**: Brand, Influencer, Editor, Photographer, Admin
 - **Gig Marketplace**: Post and bid on creative projects
 - **Smart Bidding**: Negotiation chat, counter-offers, accept/reject
-- **Crew Hiring**: Build production teams with automatic group chat creation
 - **Photography Hub**: Service packages and bookings
 - **Real-time Chat**: WebSocket messaging embedded across all project contexts
 - **Global Chat Widget**: Floating chat button with unread badges
