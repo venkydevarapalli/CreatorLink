@@ -1,9 +1,10 @@
 # CreatorLink
 
-## Github Link
-https://github.com/venkydevarapalli/CreatorLink
-
 A social media collaboration platform for creative professionals built with **React + Tailwind CSS** (frontend), **FastAPI** (backend), **MongoDB + Beanie ODM** (database), **Cloudinary** (media), and **WebSockets** (real-time chat).
+
+## Github Link
+
+https://github.com/venkydevarapalli/CreatorLink
 
 ## Features
 
